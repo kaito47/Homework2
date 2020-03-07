@@ -6,9 +6,17 @@
     /* Typography */
     font-size: 33px;
     line-height: 150%;
-    text-indent: 15%;
-    
+    text-indent: 15%;  
 }
+  
+/* border for navbar */
+.navborder {
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 0px 0px 10px 10px;
+    -webkit-border-radius: 0px 0px 10px 10px;
+    border: 10px ridge #00000015;
+    }
+   
 
 /* navbar links style */
 .nav-link {
@@ -16,3 +24,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.25em;
 }
+
+/* body background color */
+body {
+background-color: cornsilk;
+ /* Border */
+}
+
+ 
+

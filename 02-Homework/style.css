@@ -1,0 +1,18 @@
+/* Style for navbar */
+.navbar-brand {
+    margin: 10px;
+    font-family: 'Sen', sans-serif;
+  
+    /* Typography */
+    font-size: 33px;
+    line-height: 150%;
+    text-indent: 15%;
+    
+}
+
+/* navbar links style */
+.nav-link {
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.25em;
+}

@@ -40,3 +40,12 @@ background-color: cornsilk;
 
 
 /* about me card */
+.aboutmeCard {
+    margin-right: 100px;
+    margin-top: 200px;
+}
+
+/* portfolio card */
+.portfolioCard {
+    margin-bottom: 25px;
+}

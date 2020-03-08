@@ -15,6 +15,7 @@
     -moz-border-radius: 0px 0px 10px 10px;
     -webkit-border-radius: 0px 0px 10px 10px;
     border: 10px ridge #00000015;
+    margin-bottom: 50px;
     }
    
 
@@ -31,5 +32,13 @@ background-color: cornsilk;
  /* Border */
 }
 
- 
+/* contact card header */
+.page-header {
+    margin-bottom: 25px; 
+}
+
+#contactMessage {
+    text-align: center;
+}
+
 

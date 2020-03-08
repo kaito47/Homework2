@@ -34,4 +34,4 @@ The foot at the bottom of the Portfolio page allows the visitor to return to the
 
 ![Footer](footer.png) 
 
-Link to page: !(https://github.com/kaito47/Homework2)
+[Link to page](https://github.com/kaito47/Homework2)
